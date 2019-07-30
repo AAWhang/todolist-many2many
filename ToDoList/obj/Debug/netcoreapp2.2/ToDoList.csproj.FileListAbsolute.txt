@@ -27,9 +27,10 @@ C:/Users/Holde/desktop/coding/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp2.2
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.input.cache
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.output.cache
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorCoreGenerate.cache
-/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/CreateForm.g.cshtml.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cache
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.Views.pdb
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
+/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.g.cshtml.cs
+/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.g.cshtml.cs
