@@ -34,3 +34,4 @@ C:/Users/Holde/desktop/coding/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp2.2
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.g.cshtml.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.g.cshtml.cs
+/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.g.cshtml.cs
