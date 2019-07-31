@@ -41,5 +41,15 @@ namespace ToDoList.Controllers
       return View(foundItem);
     }
 
+    [HttpGet("/items/newest")]
+    public ActionResult Newest()
+    {
+      return View();
+    }
+    [HttpGet("/items/deeper")]
+    public ActionResult DeeperDungeonHole()
+    {
+      return View();
+    }
   }
 }

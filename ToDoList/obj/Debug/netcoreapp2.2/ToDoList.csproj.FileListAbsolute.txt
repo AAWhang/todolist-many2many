@@ -36,3 +36,5 @@ C:/Users/Holde/desktop/coding/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp2.2
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.g.cshtml.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/New.g.cshtml.cs
 /Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Show.g.cshtml.cs
+/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Newest.g.cshtml.cs
+/Users/Guest/Desktop/to-do-list-c/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeeperDungeonHole.g.cshtml.cs
